@@ -145,9 +145,23 @@ There are `1000 users`  in Tanzania. You need at least `1 followers` to be on th
 	</tr>
 	<tr>
 		<td>4</td>
+		
 		<td>
-			<a href="https://github.com/elirehema">
-				<img src="https://avatars.githubusercontent.com/u/29277048?s=72&u=7b9129df86f037dc4fb021e22ecbf252f308e688&v=4" width="24" alt="Avatar of elirehema"> elirehema
+			<a href="https://github.com/ismohamedi">
+				<img src="https://avatars.githubusercontent.com/u/40492093?s=72&u=b5bb21eaa95168d722171b8b57bfb106688be774&v=4" width="24" alt="Avatar of ismohamedi"> ismohamedi
+			</a><br/>
+			Dastani Ferdinandi
+		</td>
+		<td>Tanzania Revenue Authority (<br/>Tra<br/>)<br/></td>
+		<td><a href="https://twitter.com/iamdastani">iamdastani</a></td>
+		<td>Dar es salaam</td>
+		<td>2355</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>
+			<a href="https://github.com/iamdastani">
+				<img src="[https://avatars.githubusercontent.com/u/29277048?s=72&u]([https://avatars.githubusercontent.com/u/58464764?v=4](https://avatars.githubusercontent.com/u/58464764?v=4))" width="24" alt="Avatar of iamdastani"> iamdastani
 			</a><br/>
 			Elirehema Paul
 		</td>
